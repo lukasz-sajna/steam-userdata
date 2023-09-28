@@ -1,0 +1,24 @@
+# Ignore everything
+*
+
+!.gitignore
+
+!121109371/
+121109371/*
+!121109371/730/
+121109371/730/*
+!121109371/730/local/
+121109371/730/local/*
+!121109371/730/local/cfg/
+121109371/730/local/cfg/*
+!121109371/730/local/cfg/*.cfg
+!121109371/730/local/cfg/*.vcfg*
+!121109371/730/local/cfg/*.txt*
+
+!121109371/730/remote/
+121109371/730/remote/*
+!121109371/730/remote/cfg/
+121109371/730/remote/cfg/*
+!121109371/730/remote/cfg/*.cfg
+!121109371/730/remote/cfg/*.vcfg*
+!121109371/730/remote/cfg/*.txt*

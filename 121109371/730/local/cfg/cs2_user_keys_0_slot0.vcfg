@@ -1,0 +1,24 @@
+"config"
+{
+	"bindings"
+	{
+		"c"		"+duck"
+		"CTRL"		"+duck"
+		"SPACE"		"+jump"
+		"MWHEELDOWN"		"fixjump"
+		"f"		"+lookatweapon;"
+		"h"		"+fdpistol"
+		"]"		"toggle cl_righthand 0 1"
+		"\"		"toggle mat_monitorgamma 1.6 2.2"
+		"TAB"		"+netg"
+		"PGUP"		"toggle volume .2 .9"
+		"ALT"		"+duckjump"
+		"F10"		"logaddress_add 1"
+		"MOUSE4"		"+boing; +ding; +dong"
+		"MOUSE5"		"+voicerecord"
+		"p"		"noclip"
+		"F7"		"host_framerate .05"
+		"F8"		"host_framerate 0"
+		"q"		"lastinv"
+	}
+}
