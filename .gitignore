@@ -2,6 +2,7 @@
 *
 
 !.gitignore
+!autobackup.bat
 
 !121109371/
 121109371/*
