@@ -8,7 +8,7 @@
 		"MWHEELDOWN"		"fixjump"
 		"f"		"+lookatweapon;"
 		"h"		"+fdpistol"
-		"]"		"toggle cl_righthand 0 1"
+		"]"		"toggle cl_radar_scale 0.35 1"
 		"\"		"toggle mat_monitorgamma 1.6 2.2"
 		"TAB"		"+netg"
 		"PGUP"		"toggle volume .2 .9"
