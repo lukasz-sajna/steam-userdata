@@ -20,5 +20,6 @@
 		"F7"		"host_framerate .05"
 		"F8"		"host_framerate 0"
 		"q"		"lastinv"
+		"MWHEELUP"		"fixjump"
 	}
 }
