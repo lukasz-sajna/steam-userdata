@@ -4,8 +4,8 @@
 	{
 		"c"		"+duck"
 		"CTRL"		"+duck"
-		"SPACE"		"+jump"
-		"MWHEELDOWN"		"fixjump"
+		"SPACE"		"exec jump_backdoor"
+		"MWHEELDOWN"		"exec jump_backdoor"
 		"f"		"+lookatweapon;"
 		"h"		"+fdpistol"
 		"]"		"toggle cl_radar_scale 0.35 1"
@@ -14,13 +14,13 @@
 		"PGUP"		"toggle volume .2 .9"
 		"ALT"		"+duckjump"
 		"F10"		"logaddress_add 1"
-		"MOUSE4"		"+boing; +ding; -boing"
+		"MOUSE4"		"+boing; +ding; +boing"
 		"MOUSE5"		"+voicerecord"
 		"p"		"noclip"
 		"F7"		"host_framerate .05"
 		"F8"		"host_framerate 0"
 		"q"		"lastinv"
-		"MWHEELUP"		"fixjump"
+		"MWHEELUP"		"exec jump_backdoor"
 		"END"		"refundall"
 	}
 }
