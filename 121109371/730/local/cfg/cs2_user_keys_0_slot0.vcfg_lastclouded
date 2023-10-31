@@ -25,5 +25,6 @@
 		"n"		"+runthrow;+throwaction"
 		"DEL"		"clearnade"
 		"PGDN"		"rethrow"
+		"MOUSE1"		"+attack"
 	}
 }
