@@ -24,7 +24,7 @@
 		"cl_crosshairgap_useweaponvalue"		"false"
 		"cl_crosshairsize"		"2.000000"
 		"cl_crosshairstyle"		"4"
-		"cl_crosshairthickness"		"0.000000"
+		"cl_crosshairthickness"		"1"
 		"cl_crosshairusealpha"		"true"
 		"cl_debounce_zoom"		"false"
 		"cl_fixedcrosshairgap"		"-1.000000"

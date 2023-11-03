@@ -16,7 +16,7 @@
 		"F10"		"logaddress_add 1"
 		"MOUSE4"		"+boing; +ding"
 		"MOUSE5"		"+voicerecord"
-		"p"		"noclip"
+		"p"		"sv_cheats 1; noclip"
 		"F7"		"host_framerate .05"
 		"F8"		"host_framerate 0"
 		"q"		"lastinv"
@@ -25,6 +25,5 @@
 		"n"		"+runthrow;+throwaction"
 		"DEL"		"clearnade"
 		"PGDN"		"rethrow"
-		"MOUSE1"		"+attack"
 	}
 }
