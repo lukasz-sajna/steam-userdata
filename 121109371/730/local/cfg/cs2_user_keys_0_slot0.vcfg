@@ -17,13 +17,15 @@
 		"MOUSE4"		"+boing; +ding"
 		"MOUSE5"		"+voicerecord"
 		"p"		"sv_cheats 1; noclip"
-		"F7"		"host_framerate .05"
-		"F8"		"host_framerate 0"
+		"F7"		"say_team .deagle"
+		"F8"		"say_team .start"
 		"q"		"lastinv"
 		"MWHEELUP"		"+jump_"
 		"END"		"refundall"
 		"n"		"+runthrow;+throwaction"
 		"DEL"		"clearnade"
 		"PGDN"		"rethrow"
+		"F5"		"say_team .comp"
+		"F6"		"say_team .prac"
 	}
 }
