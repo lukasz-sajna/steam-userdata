@@ -17,7 +17,7 @@
 		"c_thirdpersonshoulderdist"		"40.000000"
 		"c_thirdpersonshoulderheight"		"5.000000"
 		"c_thirdpersonshoulderoffset"		"20.000000"
-		"cachedvalue_count_partybrowser"		"1700397588"
+		"cachedvalue_count_partybrowser"		"1700512532"
 		"cachedvalue_count_teammates"		"0"
 		"cam_collision"		"1"
 		"cam_idealdelta"		"4.000000"
@@ -177,7 +177,7 @@
 		"panorama_debug_overlay_opacity_min"		"0.010000"
 		"panorama_debugger_theme"		"Light"
 		"panorama_focus_world_panels"		"false"
-		"password"		"Refrag80040"
+		"password"		"Refrag76052"
 		"player0_using_joystick"		"false"
 		"player_botdifflast_s"		"2"
 		"player_competitive_maplist_2v2_10_0_C8D88986"		"mg_de_vertigo"
@@ -297,6 +297,6 @@
 		"voice_always_sample_mic"		"true"
 		"voice_modenable"		"true"
 		"voice_threshold"		"0.000000"
-		"volume"		"0.200000"
+		"volume"		"0.900000"
 	}
 }
