@@ -23,7 +23,7 @@
 	"setting.r_aoproxy_min_dist"		"3"
 	"setting.r_ssao"		"1"
 	"setting.r_csgo_lowend_objects"		"1"
-	"setting.r_texturefilteringquality"		"3"
+	"setting.r_texturefilteringquality"		"5"
 	"setting.r_character_decal_resolution"		"512"
 	"setting.r_texture_stream_max_resolution"		"2048"
 	"setting.msaa_samples"		"0"
