@@ -25,7 +25,7 @@
 		"n"		"+runthrow;+throwaction"
 		"DEL"		"clearnade"
 		"PGDN"		"rethrow"
-		"F5"		"say_team .comp"
+		"F5"		"say_team .smart"
 		"F6"		"say_team .prac"
 		"5"		"slot5;+lookatweapon;-lookatweapon"
 		"4"		"slot4"
