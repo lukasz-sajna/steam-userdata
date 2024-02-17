@@ -10,7 +10,7 @@
 		"h"		"+fdpistol"
 		"]"		"toggle cl_radar_scale 0.35 1"
 		"\"		"toggle mat_monitorgamma 1.6 2.2"
-		"TAB"		"+netg"
+		"TAB"		"+showscores"
 		"PGUP"		"toggle volume .2 .9"
 		"ALT"		"+duckjump"
 		"F10"		"logaddress_add 1"
