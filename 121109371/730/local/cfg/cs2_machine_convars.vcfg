@@ -17,7 +17,7 @@
 		"c_thirdpersonshoulderdist"		"40.000000"
 		"c_thirdpersonshoulderheight"		"5.000000"
 		"c_thirdpersonshoulderoffset"		"20.000000"
-		"cachedvalue_count_partybrowser"		"1710697747"
+		"cachedvalue_count_partybrowser"		"1710787092"
 		"cachedvalue_count_teammates"		"0"
 		"cam_collision"		"1"
 		"cam_idealdelta"		"4.000000"
@@ -314,6 +314,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.900000"
+		"volume"		"0.100000"
 	}
 }
