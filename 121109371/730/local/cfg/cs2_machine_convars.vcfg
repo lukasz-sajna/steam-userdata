@@ -17,7 +17,7 @@
 		"c_thirdpersonshoulderdist"		"40.000000"
 		"c_thirdpersonshoulderheight"		"5.000000"
 		"c_thirdpersonshoulderoffset"		"20.000000"
-		"cachedvalue_count_partybrowser"		"1711755283"
+		"cachedvalue_count_partybrowser"		"1712005384"
 		"cachedvalue_count_teammates"		"0"
 		"cam_collision"		"1"
 		"cam_idealdelta"		"4.000000"
@@ -257,7 +257,7 @@
 		"ui_inspect_bkgnd_map_B0B70CFF"		"warehouse"
 		"ui_mainmenu_bkgnd_movie_B0B70CFF$10"		"ar_baggage"
 		"ui_nearbylobbies_filter3"		"competitive"
-		"ui_news_last_read_link"		"https://www.counter-strike.net/newsentry/4104540932633328367"
+		"ui_news_last_read_link"		"https://www.counter-strike.net/newsentry/4167591962341209737"
 		"ui_playsettings_custom_preset"		"mg_de_mirage"
 		"ui_playsettings_directchallengekey"		"S3Y7M-9ZRJ-S2T5J-JU8J"
 		"ui_playsettings_flags_listen_casual"		"0"
@@ -313,6 +313,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
