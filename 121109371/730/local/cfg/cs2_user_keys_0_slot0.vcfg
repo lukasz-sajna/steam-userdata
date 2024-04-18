@@ -6,7 +6,7 @@
 		"CTRL"		"+duck"
 		"SPACE"		"+jump_"
 		"MWHEELDOWN"		"+jump_"
-		"f"		"+lookatweapon;"
+		"f"		"+lookatweapon"
 		"h"		"+fdpistol"
 		"]"		"toggle cl_radar_scale 0.35 1"
 		"\"		"toggle mat_monitorgamma 1.6 2.2"
