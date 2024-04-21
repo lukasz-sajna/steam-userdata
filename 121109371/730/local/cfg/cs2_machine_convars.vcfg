@@ -189,7 +189,7 @@
 		"player_competitive_maplist_8_10_0_5069769"		"mg_de_vertigo"
 		"player_survival_list_10_0_303"		"mg_dz_blacksite,mg_dz_sirocco,mg_dz_vineyard,mg_dz_ember"
 		"r_drawtracers_firstperson"		"true"
-		"r_fullscreen_gamma"		"1.910000"
+		"r_fullscreen_gamma"		"1.900000"
 		"r_player_visibility_mode"		"0"
 		"r_show_build_info"		"true"
 		"rate"		"786432"
