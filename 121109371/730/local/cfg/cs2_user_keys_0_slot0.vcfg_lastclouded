@@ -4,7 +4,7 @@
 	{
 		"c"		"+duck"
 		"CTRL"		"+duck"
-		"SPACE"		"+jump_"
+		"SPACE"		"+jump"
 		"MWHEELDOWN"		"+jump_"
 		"f"		"+lookatweapon"
 		"h"		"+fdpistol"
