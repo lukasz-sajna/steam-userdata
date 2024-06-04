@@ -286,7 +286,7 @@
 		"ui_playsettings_maps_official_casual"		"mg_casualdelta"
 		"ui_playsettings_maps_official_deathmatch"		"mg_dust247"
 		"ui_playsettings_maps_official_gungameprogressive"		"mg_skirmish_armsrace"
-		"ui_playsettings_maps_workshop"		"@workshop/3240880604/de_dust2_benchmark"
+		"ui_playsettings_maps_workshop"		"@workshop/3124182019/aim_treeni"
 		"ui_playsettings_mode_listen"		"competitive"
 		"ui_playsettings_mode_official_v20"		"competitive"
 		"ui_playsettings_survival_solo"		"0"
