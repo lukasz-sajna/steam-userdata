@@ -187,7 +187,7 @@
 		"panorama_debugger_theme"		"Light"
 		"panorama_focus_world_panels"		"false"
 		"panorama_joystick_enabled"		"false"
-		"password"		"Refrag32194"
+		"password"		"Refrag33208"
 		"player0_using_joystick"		"false"
 		"player_botdifflast_s"		"2"
 		"player_competitive_maplist_2v2_10_0_C8D88986"		"mg_de_overpass,mg_de_vertigo,mg_de_inferno"
@@ -312,6 +312,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
