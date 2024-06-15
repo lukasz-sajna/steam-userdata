@@ -17,7 +17,7 @@
 	"setting.fullscreen_min_on_focus_loss"		"1"
 	"setting.high_dpi"		"0"
 	"setting.coop_fullscreen"		"0"
-	"setting.videocfg_shadow_quality"		"0"
+	"setting.videocfg_shadow_quality"		"2"
 	"setting.videocfg_texture_detail"		"1"
 	"setting.videocfg_ao_detail"		"0"
 	"setting.videocfg_particle_detail"		"0"
