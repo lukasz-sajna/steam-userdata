@@ -200,7 +200,7 @@
 		"r_fullscreen_gamma"		"1.900000"
 		"r_player_visibility_mode"		"1"
 		"r_show_build_info"		"false"
-		"rate"		"1000000"
+		"rate"		"786432"
 		"rr_thenany_score_slop"		"0.000000"
 		"safezonex"		"1.000000"
 		"safezoney"		"1.000000"
@@ -265,6 +265,7 @@
 		"ui_mainmenu_bkgnd_movie_B0B70CFF$10"		"de_inferno"
 		"ui_nearbylobbies_filter3"		"competitive"
 		"ui_news_last_read_link"		"https://www.counter-strike.net/newsentry/4194621169493598732"
+		"ui_playsettings_custom_preset"		"mg_de_inferno"
 		"ui_playsettings_directchallengekey"		"S3Y7M-9ZRJ-S2T5J-JU8J"
 		"ui_playsettings_flags_listen_casual"		"0"
 		"ui_playsettings_flags_listen_competitive"		"16"
@@ -288,7 +289,7 @@
 		"ui_playsettings_maps_official_casual"		"mg_casualdelta"
 		"ui_playsettings_maps_official_deathmatch"		"mg_dust247"
 		"ui_playsettings_maps_official_gungameprogressive"		"mg_skirmish_armsrace"
-		"ui_playsettings_maps_workshop"		"@workshop/3100869952/recoil_master"
+		"ui_playsettings_maps_workshop"		"@workshop/3124182019/aim_treeni"
 		"ui_playsettings_mode_listen"		"competitive"
 		"ui_playsettings_mode_official_v20"		"competitive"
 		"ui_playsettings_survival_solo"		"0"
@@ -315,6 +316,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
