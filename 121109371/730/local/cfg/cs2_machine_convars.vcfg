@@ -138,7 +138,7 @@
 		"cl_vrr_recommendation_dont_show_again"		"true"
 		"closecaption"		"false"
 		"commentary"		"false"
-		"csgo_map_preview_scale"		"2.456000"
+		"csgo_map_preview_scale"		"2.462000"
 		"debugoverlay_text_scale"		"1.000000"
 		"demo_flush"		"false"
 		"demo_mouse_enable_binding"		"drop"
@@ -197,7 +197,7 @@
 		"player_competitive_maplist_8_10_0_DE80D4BB"		"mg_de_inferno"
 		"player_survival_list_10_0_303"		"mg_dz_blacksite,mg_dz_sirocco,mg_dz_vineyard,mg_dz_ember"
 		"r_drawtracers_firstperson"		"true"
-		"r_fullscreen_gamma"		"1.910000"
+		"r_fullscreen_gamma"		"1.900000"
 		"r_player_visibility_mode"		"1"
 		"r_show_build_info"		"false"
 		"rate"		"786432"
@@ -316,6 +316,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
