@@ -288,9 +288,9 @@
 		"ui_playsettings_maps_official_casual"		"mg_casualdelta"
 		"ui_playsettings_maps_official_deathmatch"		"mg_dust247"
 		"ui_playsettings_maps_official_gungameprogressive"		"mg_skirmish_armsrace"
-		"ui_playsettings_maps_workshop"		"@workshop/3070902332/fastaimreflexv5"
+		"ui_playsettings_maps_workshop"		"@workshop/3070758981/aim_fastreflex07"
 		"ui_playsettings_mode_listen"		"deathmatch"
-		"ui_playsettings_mode_official_v20"		"premier"
+		"ui_playsettings_mode_official_v20"		"deathmatch"
 		"ui_playsettings_survival_solo"		"0"
 		"ui_playsettings_warmup_map_name"		"de_mirage"
 		"ui_popup_weaponupdate_version"		"2402"
@@ -315,6 +315,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
