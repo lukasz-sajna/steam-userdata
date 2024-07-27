@@ -23,7 +23,7 @@
 		"MWHEELUP"		"+jump_"
 		"END"		"refundall"
 		"n"		"+runthrow;+throwaction"
-		"DEL"		"clearnade"
+		"DEL"		"clearnade; say .clear"
 		"PGDN"		"rethrow"
 		"F5"		"say_team .smart"
 		"F6"		"say_team .prac"
