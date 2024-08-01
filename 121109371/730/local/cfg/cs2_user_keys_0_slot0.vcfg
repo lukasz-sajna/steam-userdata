@@ -4,8 +4,8 @@
 	{
 		"c"		"+duck"
 		"CTRL"		"+duck"
-		"SPACE"		"+jump_"
-		"MWHEELDOWN"		"+jump_"
+		"SPACE"		"jomp"
+		"MWHEELDOWN"		"jomp"
 		"f"		"+lookatweapon"
 		"h"		"+fdpistol"
 		"]"		"toggle cl_radar_scale 0.35 1"
@@ -14,13 +14,13 @@
 		"PGUP"		"toggle volume .2 .9"
 		"ALT"		"+duckjump"
 		"F10"		"logaddress_add 1"
-		"MOUSE4"		"+boing; +ding"
+		"MOUSE4"		"+jumpaction;+throwaction;"
 		"MOUSE5"		"+voicerecord"
 		"p"		"sv_cheats 1; noclip; sv_regeneration_force_on true"
 		"F7"		"say_team .deagle"
 		"F8"		"say_team .start"
 		"q"		"lastinv"
-		"MWHEELUP"		"+jump_"
+		"MWHEELUP"		"jomp"
 		"END"		"refundall"
 		"n"		"+runthrow;+throwaction"
 		"DEL"		"clearnade; say .clear"
@@ -31,5 +31,6 @@
 		"4"		"slot4"
 		"="		"setpos -1166.066162 -898.974182 -103.968750"
 		"RIGHTARROW"		"toggle r_fullscreen_gamma 1.9 1.91"
+		"k"		"+attack;-attack;slot5"
 	}
 }
