@@ -18,7 +18,7 @@
 		"c_thirdpersonshoulderheight"		"5.000000"
 		"c_thirdpersonshoulderoffset"		"20.000000"
 		"cachedvalue_count_partybrowser"		"1722792206"
-		"cachedvalue_count_teammates"		"1722976785"
+		"cachedvalue_count_teammates"		"1723232013"
 		"cam_collision"		"1"
 		"cam_idealdelta"		"4.000000"
 		"cam_idealdist"		"150.000000"
@@ -134,7 +134,7 @@
 		"cl_teamid_overhead_mode$2"		"3"
 		"cl_teammate_colors_show"		"2"
 		"cl_timeout"		"1337.000000"
-		"cl_versus_intro"		"true"
+		"cl_versus_intro"		"false"
 		"cl_vrr_recommendation_dont_show_again"		"true"
 		"closecaption"		"false"
 		"commentary"		"false"
@@ -316,6 +316,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.200000"
+		"volume"		"0.900000"
 	}
 }
