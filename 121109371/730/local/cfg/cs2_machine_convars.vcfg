@@ -138,7 +138,7 @@
 		"cl_vrr_recommendation_dont_show_again"		"true"
 		"closecaption"		"false"
 		"commentary"		"false"
-		"csgo_map_preview_scale"		"3.170000"
+		"csgo_map_preview_scale"		"3.176000"
 		"debugoverlay_text_scale"		"1.000000"
 		"demo_flush"		"false"
 		"demo_mouse_enable_binding"		"drop"
@@ -314,6 +314,6 @@
 		"voice_threshold_attack"		"0.300000"
 		"voice_threshold_delay"		"1.500000"
 		"voice_threshold_hold"		"0.800000"
-		"volume"		"0.200000"
+		"volume"		"1.000000"
 	}
 }
