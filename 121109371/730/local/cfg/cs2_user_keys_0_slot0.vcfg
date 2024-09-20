@@ -13,7 +13,7 @@
 		"TAB"		"+showscores"
 		"PGUP"		"toggle volume .2 .9"
 		"F10"		"logaddress_add 1"
-		"MOUSE4"		"<unbound>"
+		"MOUSE4"		"toggle cl_radar_scale 0.35 1"
 		"MOUSE5"		"+voicerecord"
 		"p"		"sv_cheats 1; noclip; sv_regeneration_force_on true"
 		"F7"		"say_team .deagle"
