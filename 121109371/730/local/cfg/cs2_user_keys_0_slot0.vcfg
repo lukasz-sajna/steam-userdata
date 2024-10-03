@@ -28,7 +28,7 @@
 		"5"		"slot5;+lookatweapon;-lookatweapon"
 		"4"		"slot4"
 		"="		"setpos -1166.066162 -898.974182 -103.968750"
-		"RIGHTARROW"		"toggle r_fullscreen_gamma 1.9 1.91"
 		"k"		"+attack;-attack;slot5"
+		"RIGHTARROW"		"toggle r_fullscreen_gamma 1.9 1.91"
 	}
 }
