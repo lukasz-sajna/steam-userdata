@@ -120,7 +120,7 @@
 		"cl_radial_radio_version_reset"		"12"
 		"cl_radialmenu_deadzone_size_joystick"		"0.170000"
 		"cl_ragdoll_limit"		"20"
-		"cl_redemption_reset_timestamp"		"1728502247"
+		"cl_redemption_reset_timestamp"		"1729104248"
 		"cl_refresh_rate_recommendation_dont_show_again"		"true"
 		"cl_sanitize_player_names"		"false"
 		"cl_scoreboard_mouse_enable_binding"		"+attack2"
