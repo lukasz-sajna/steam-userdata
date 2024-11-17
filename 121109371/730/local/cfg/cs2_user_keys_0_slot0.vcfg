@@ -24,7 +24,6 @@
 		"F6"		"say_team .prac"
 		"5"		"slot5;+lookatweapon;-lookatweapon"
 		"4"		"slot4"
-		"="		"setpos -1166.066162 -898.974182 -103.968750"
 		"MOUSE1"		"+attack"
 		"]"		"switchhands"
 		"END"		"sellbackall"
