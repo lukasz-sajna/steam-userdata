@@ -88,7 +88,7 @@
 		"cl_predict_body_shot_fx"		"false"
 		"cl_predict_head_shot_fx"		"false"
 		"cl_predict_kill_ragdolls"		"true"
-		"cl_promoted_settings_acknowledged"		"1:1733156640905"
+		"cl_promoted_settings_acknowledged"		"1:1733169237620"
 		"cl_quickinventory_filename"		"radial_quickinventory.txt"
 		"cl_quickinventory_lastinv"		"true"
 		"cl_quickinventory_line_update_speed"		"65.000000"
@@ -300,7 +300,7 @@
 		"ui_playsettings_maps_official_gungameprogressive"		"mg_skirmish_armsrace"
 		"ui_playsettings_maps_workshop"		"@workshop/3070758981/aim_fastreflex07"
 		"ui_playsettings_mode_listen"		"competitive"
-		"ui_playsettings_mode_official_v20"		"premier"
+		"ui_playsettings_mode_official_v20"		"competitive"
 		"ui_playsettings_survival_solo"		"0"
 		"ui_playsettings_warmup_map_name"		"de_mirage"
 		"ui_popup_weaponupdate_version"		"2402"
@@ -322,6 +322,6 @@
 		"voice_device_override"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
 		"voice_modenable"		"true"
 		"voice_threshold$2"		"-120.000000"
-		"volume"		"0.200000"
+		"volume"		"0.900000"
 	}
 }
