@@ -88,7 +88,7 @@
 		"cl_predict_body_shot_fx"		"false"
 		"cl_predict_head_shot_fx"		"false"
 		"cl_predict_kill_ragdolls"		"true"
-		"cl_promoted_settings_acknowledged"		"1:1734131843121"
+		"cl_promoted_settings_acknowledged"		"1:1734298316634"
 		"cl_quickinventory_filename"		"radial_quickinventory.txt"
 		"cl_quickinventory_lastinv"		"true"
 		"cl_quickinventory_line_update_speed"		"65.000000"
@@ -269,7 +269,7 @@
 		"ui_inspect_bkgnd_map_9CA40421"		"mainmenu"
 		"ui_mainmenu_bkgnd_movie_9CA40421$11"		"de_train"
 		"ui_nearbylobbies_filter3"		"competitive"
-		"ui_news_last_read_link"		"https://www.counter-strike.net/newsentry/528706478197966784"
+		"ui_news_last_read_link"		"https://www.counter-strike.net/newsentry/707725115500004414"
 		"ui_playsettings_directchallengekey"		"S3Y7M-9ZRJ-S2T5J-JU8J"
 		"ui_playsettings_flags_listen_casual"		"0"
 		"ui_playsettings_flags_listen_competitive"		"16"
@@ -321,6 +321,6 @@
 		"voice_device_override"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
 		"voice_modenable"		"true"
 		"voice_threshold$2"		"-120.000000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
