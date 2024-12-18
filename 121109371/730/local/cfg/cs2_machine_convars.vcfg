@@ -88,7 +88,7 @@
 		"cl_predict_body_shot_fx"		"false"
 		"cl_predict_head_shot_fx"		"false"
 		"cl_predict_kill_ragdolls"		"true"
-		"cl_promoted_settings_acknowledged"		"1:1734395398754"
+		"cl_promoted_settings_acknowledged"		"1:1734537427445"
 		"cl_quickinventory_filename"		"radial_quickinventory.txt"
 		"cl_quickinventory_lastinv"		"true"
 		"cl_quickinventory_line_update_speed"		"65.000000"
