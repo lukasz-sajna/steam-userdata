@@ -26,6 +26,6 @@
 		"4"		"slot4"
 		"MOUSE1"		"+attack"
 		"]"		"switchhands"
-		"END"		"sellbackall"
+		"END"		"toggle cl_teamcounter_playercount_instead_of_avatars 0 1"
 	}
 }
