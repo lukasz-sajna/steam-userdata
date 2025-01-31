@@ -1,6 +1,6 @@
 @echo off
 cd "C:\Program Files (x86)\Steam\userdata"
-cmd /c (
+start /min (
   git add .
   set time=%TIME:~0,2%:%TIME:~3,2%:%TIME:~6,2%
   set time=%time: =0%
