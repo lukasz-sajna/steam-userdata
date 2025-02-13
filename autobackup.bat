@@ -7,8 +7,9 @@ cmd /c (
   set time=%TIME:~0,2%:%TIME:~3,2%:%TIME:~6,2%
   set time=%time: =0%
 
-  :: Pobranie poprawnego formatu daty dla polskiego systemu
-  set date=%DATE:~4,2%/%DATE:~1,2%/%DATE:~7,4%
+  :: Pobranie poprawnego formatu daty (zamiast %DATE%, używamy wmic)
+  for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /value') do set datetime=%%I
+  set date=%datetime:~6,2%/%datetime:~4,2%/%datetime:~0,4%
 
   git commit -am "Regular auto-commit at %time% on %date%"
   git push origin master
