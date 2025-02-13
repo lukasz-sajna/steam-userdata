@@ -7,9 +7,8 @@ cmd /c (
   set time=%TIME:~0,2%:%TIME:~3,2%:%TIME:~6,2%
   set time=%time: =0%
 
-  :: Pobranie poprawnego formatu daty
-  for /f %%I in ('wmic os get localdatetime ^| find "."') do set datetime=%%I
-  set date=%datetime:~6,2%/%datetime:~4,2%/%datetime:~0,4%
+  :: Pobranie poprawnego formatu daty z PowerShell
+  for /f %%I in ('powershell -Command "Get-Date -Format \"dd/MM/yyyy\""' ) do set date=%%I
 
   git commit -am "Regular auto-commit at %time% on %date%"
   git push origin master
