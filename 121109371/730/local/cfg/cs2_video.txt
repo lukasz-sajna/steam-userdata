@@ -14,7 +14,7 @@
 	"setting.gpu_level"		"3"
 	"setting.knowndevice"		"1"
 	"setting.nowindowborder"		"1"
-	"setting.fullscreen_min_on_focus_loss"		"1"
+	"setting.fullscreen_min_on_focus_loss"		"0"
 	"setting.high_dpi"		"0"
 	"setting.coop_fullscreen"		"0"
 	"setting.videocfg_shadow_quality"		"0"
