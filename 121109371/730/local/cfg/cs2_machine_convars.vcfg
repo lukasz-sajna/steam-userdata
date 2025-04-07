@@ -196,6 +196,7 @@
 		"panorama_debugger_theme"		"Light"
 		"panorama_focus_world_panels"		"false"
 		"panorama_joystick_enabled"		"false"
+		"password"		"Refrag64675"
 		"player0_using_joystick"		"false"
 		"player_botdifflast_s"		"2"
 		"player_competitive_maplist_2v2_10_0_CCC21262"		"mg_de_whistle"
@@ -322,6 +323,6 @@
 		"voice_device_override"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
 		"voice_modenable"		"true"
 		"voice_threshold$2"		"-120.000000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
