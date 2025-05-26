@@ -54,7 +54,7 @@
 		"cl_hud_radar_map_additive"		"false"
 		"cl_hud_radar_scale"		"1.150000"
 		"cl_hud_telemetry_frametime_poor"		"100.000000"
-		"cl_hud_telemetry_frametime_show"		"0"
+		"cl_hud_telemetry_frametime_show"		"2"
 		"cl_hud_telemetry_net_detailed"		"2"
 		"cl_hud_telemetry_net_misdelivery_poor"		"0.100000"
 		"cl_hud_telemetry_net_misdelivery_show"		"2"
