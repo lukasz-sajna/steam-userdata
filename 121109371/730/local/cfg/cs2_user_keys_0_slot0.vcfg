@@ -17,7 +17,7 @@
 		"F8"		"say_team .start"
 		"q"		"lastinv"
 		"MWHEELUP"		"+jump"
-		"DEL"		"clearnade; say .clear"
+		"DEL"		"clearnade; say_team .clear"
 		"PGDN"		"rethrow"
 		"F5"		"say_team .smart"
 		"F6"		"say_team .prac"
@@ -28,5 +28,9 @@
 		"END"		"toggle cl_teamcounter_playercount_instead_of_avatars 0 1"
 		"k"		"+voicerecord"
 		"MOUSE5"		"+voicerecord"
+		"F13"		"toggle mp_damage_headshot_only 0 1; ; say_team headshot"
+		"F14"		"toggle mp_free_armor 1 2; say_team armor"
+		"F15"		"mp_restartgame 1; say_team restart"
+		"F16"		"dc"
 	}
 }
