@@ -32,5 +32,6 @@
 		"F14"		"toggle mp_free_armor 1 2; say_team armor"
 		"F15"		"mp_restartgame 1; say_team restart"
 		"F16"		"dc"
+		"F17"		"qq"
 	}
 }
