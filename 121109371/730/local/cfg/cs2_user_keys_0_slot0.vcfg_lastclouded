@@ -33,5 +33,7 @@
 		"F15"		"mp_restartgame 1; say_team restart"
 		"F16"		"dc"
 		"F17"		"qq"
+		"ENTER"		"ent_fire script Enter"
+		"BACKSPACE"		"ent_fire script Backspace"
 	}
 }
