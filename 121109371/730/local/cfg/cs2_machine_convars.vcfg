@@ -269,7 +269,7 @@
 		"sv_skyname"		"sky_urb01"
 		"sv_specaccelerate"		"5.000000"
 		"sv_specnoclip"		"true"
-		"sv_specspeed$2"		"1200.000000"
+		"sv_specspeed$2"		"3.000000"
 		"sv_unlockedchapters"		"1"
 		"sv_unpause_on_console_close"		"true"
 		"sv_usercmd_execute_warning_ms"		"5.000000"
