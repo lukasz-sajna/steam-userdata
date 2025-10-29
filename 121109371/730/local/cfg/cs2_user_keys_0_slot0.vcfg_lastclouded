@@ -37,7 +37,7 @@
 		"BACKSPACE"		"ent_fire script Backspace"
 		"\"		"toggle mat_monitorgamma 1.6 2.2"
 		"ALT"		"+duckjump"
-		"F18"		"demo_goto 320"
+		"F18"		"demo_goto +320"
 		"F19"		"demoui"
 		"F20"		"demo_timescale 0.25"
 		"F21"		"demo_timescale 0.5"
