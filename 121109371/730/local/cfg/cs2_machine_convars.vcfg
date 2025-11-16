@@ -316,7 +316,7 @@
 		"ui_playsettings_maps_official_deathmatch"		"mg_casualdelta"
 		"ui_playsettings_maps_official_gungameprogressive"		"mg_skirmish_armsrace"
 		"ui_playsettings_maps_official_retakes"		"mg_casualdelta"
-		"ui_playsettings_maps_workshop"		"@workshop/3070758981/aim_fastreflex07"
+		"ui_playsettings_maps_workshop"		"@workshop/3070217773/ggpredict_traininghub"
 		"ui_playsettings_mode_listen"		"competitive"
 		"ui_playsettings_mode_official_v20"		"deathmatch"
 		"ui_playsettings_survival_solo"		"0"
