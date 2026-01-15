@@ -25,7 +25,7 @@
 	"setting.videocfg_particle_detail"		"0"
 	"setting.videocfg_fsr_detail"		"0"
 	"setting.videocfg_hdr_detail"		"-1"
-	"setting.r_texturefilteringquality"		"5"
+	"setting.r_texturefilteringquality"		"4"
 	"setting.r_low_latency"		"1"
 	"setting.r_csgo_cmaa_enable"		"0"
 	"AutoConfig"		"2"
