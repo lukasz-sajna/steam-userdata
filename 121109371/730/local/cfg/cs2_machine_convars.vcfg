@@ -19,7 +19,7 @@
 		"c_thirdpersonshoulderheight"		"5.000000"
 		"c_thirdpersonshoulderoffset"		"20.000000"
 		"cachedvalue_count_partybrowser"		"1769643019"
-		"cachedvalue_count_teammates"		"1769634586"
+		"cachedvalue_count_teammates"		"1770148637"
 		"cam_collision"		"1"
 		"cam_idealdelta"		"4.000000"
 		"cam_idealdist"		"150.000000"
@@ -308,7 +308,7 @@
 		"ui_playsettings_listen_infammo"		"1"
 		"ui_playsettings_listen_infwarmup"		"1"
 		"ui_playsettings_maps_listen_casual"		"mg_de_ancient_night"
-		"ui_playsettings_maps_listen_competitive"		"mg_de_ancient"
+		"ui_playsettings_maps_listen_competitive"		"mg_de_overpass"
 		"ui_playsettings_maps_listen_deathmatch"		"mg_de_inferno"
 		"ui_playsettings_maps_listen_gungameprogressive"		"mg_ar_baggage"
 		"ui_playsettings_maps_listen_retakes"		"mg_de_anubis"
@@ -341,6 +341,6 @@
 		"voice_device_override"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
 		"voice_modenable"		"true"
 		"voice_threshold$2"		"-120.000000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
