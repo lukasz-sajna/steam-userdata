@@ -155,7 +155,7 @@
 		"cl_weapon_selection_rarity_color"		"true"
 		"closecaption"		"false"
 		"commentary"		"false"
-		"csgo_map_preview_scale"		"7.085403"
+		"csgo_map_preview_scale"		"7.145402"
 		"debugoverlay_text_scale"		"1.000000"
 		"demo_flush"		"false"
 		"demo_mouse_enable_binding"		"drop"
@@ -206,7 +206,7 @@
 		"panorama_focus_world_panels"		"false"
 		"panorama_joystick_enabled"		"false"
 		"panorama_toggledebugger_mode"		"1"
-		"password"		"Refrag88789"
+		"password"		"Refrag79051"
 		"player0_using_joystick"		"false"
 		"player_botdifflast_s"		"2"
 		"player_competitive_maplist_2v2_10_0_630B8B7C"		"mg_de_poseidon,mg_de_sanctum"
@@ -287,6 +287,7 @@
 		"ui_mainmenu_bkgnd_movie_539CD0B9$12"		"de_ancient_night"
 		"ui_nearbylobbies_filter3"		"competitive"
 		"ui_news_last_read_link"		"https://www.counter-strike.net/newsentry/532126482488623353"
+		"ui_playsettings_custom_preset"		"mg_de_anubis,mg_de_ancient"
 		"ui_playsettings_directchallengekey"		"S3Y7M-9ZRJ-S2T5J-JU8J"
 		"ui_playsettings_flags_listen_casual"		"0"
 		"ui_playsettings_flags_listen_competitive"		"16"
@@ -342,6 +343,6 @@
 		"voice_device_override"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
 		"voice_modenable"		"true"
 		"voice_threshold$2"		"-120.000000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
