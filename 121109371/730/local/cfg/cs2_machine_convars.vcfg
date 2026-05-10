@@ -203,7 +203,7 @@
 		"panorama_focus_world_panels"		"false"
 		"panorama_joystick_enabled"		"false"
 		"panorama_toggledebugger_mode"		"1"
-		"password"		"Refrag50302"
+		"password"		"Refrag16420"
 		"player0_using_joystick"		"false"
 		"player_botdifflast_s"		"2"
 		"player_competitive_maplist_2v2_10_0_630B8B7C"		"mg_de_overpass"
@@ -340,6 +340,6 @@
 		"voice_device_override"		"SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)"
 		"voice_modenable"		"true"
 		"voice_threshold$2"		"-120.000000"
-		"volume"		"0.900000"
+		"volume"		"0.200000"
 	}
 }
