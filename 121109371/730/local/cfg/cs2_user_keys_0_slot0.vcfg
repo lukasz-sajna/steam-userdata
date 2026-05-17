@@ -43,5 +43,6 @@
 		"F21"		"demo_timescale 0.5"
 		"F22"		"demo_timescale 1"
 		"F23"		"demo_timescale 2"
+		"/"		"say Get Leetify"
 	}
 }
