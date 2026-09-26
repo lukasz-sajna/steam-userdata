@@ -8,7 +8,7 @@
 		"cl_buymenu_t_nextround_low"		"1400"
 		"cl_buywheel_donate_key"		"0"
 		"cl_buywheel_nonumberpurchasing"		"true"
-		"cl_crosshair_drawoutline"		"false"
+		"cl_crosshair_drawoutline"		"0"
 		"cl_crosshair_dynamic_maxdist_splitratio"		"0.3"
 		"cl_crosshair_dynamic_splitalpha_innermod"		"1"
 		"cl_crosshair_dynamic_splitalpha_outermod"		"0.5"
