@@ -155,7 +155,6 @@
 		"csgo_map_preview_scale"		"8"
 		"debugoverlay_text_scale"		"1"
 		"demo_flush"		"false"
-		"demo_mouse_enable_binding"		"drop"
 		"dsp_volume"		"0.8"
 		"enable_boneflex"		"true"
 		"engine_no_focus_sleep"		"0"
