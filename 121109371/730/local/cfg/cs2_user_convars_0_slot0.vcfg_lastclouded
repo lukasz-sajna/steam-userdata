@@ -55,6 +55,7 @@
 		"cl_silencer_mode"		"0"
 		"cl_sniper_auto_rezoom"		"true"
 		"cl_use_opens_buy_menu"		"false"
+		"cl_weapon_stealth_reload_toggle"		"false"
 		"closecaption"		"false"
 		"con_enable"		"true"
 		"crosshair"		"true"
