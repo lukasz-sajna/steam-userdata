@@ -312,6 +312,7 @@
 		"ui_mainmenu_bkgnd_movie_C2AEBB5E$13"		"de_cache"
 		"ui_nearbylobbies_filter3"		"competitive"
 		"ui_news_last_read_link"		"711161056325533826"
+		"ui_playsettings_custom_preset"		"mg_rush_001"
 		"ui_playsettings_directchallengekey"		"S3Y7M-9ZRJ-S2T5J-JU8J"
 		"ui_playsettings_flags_listen_casual"		"0"
 		"ui_playsettings_flags_listen_competitive"		"16"
@@ -378,6 +379,6 @@
 		"voice_webrtc_hpf"		"true"
 		"voice_webrtc_ns"		"true"
 		"voice_webrtc_ns_level"		"2"
-		"volume"		"0.9"
+		"volume"		"0.2"
 	}
 }
